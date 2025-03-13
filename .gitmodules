@@ -1,3 +1,6 @@
 [submodule "FIGMA"]
 	path = FIGMA
 	url = https://github.com/Avinash4338/FIGMA.git
+[submodule "figma"]
+	path = figma
+	url = https://github.com/Avinash4338/FIGMA.git
