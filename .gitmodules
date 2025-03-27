@@ -1,5 +1,5 @@
 [submodule "FIGMA"]
-	path = FIGMA
+	path = user-management
 	url = https://github.com/Avinash4338/FIGMA.git
 [submodule "figma"]
 	path = figma
